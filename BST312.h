@@ -1,9 +1,10 @@
 
-/*  BST312.h
-  CS 312 Fall 2018
+/* Shania Paul
+   Last updated on 11/19/2018
 
-  a simple implementation of a binary search tree
+    BST312.h
 
+    a simple implementation of a binary search tree
 
 */
 
